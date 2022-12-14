@@ -1,0 +1,13 @@
+﻿  PD1.cpp
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(7,1): warning C4278: min: идентификатор в библиотеке типов "C:\\Program Files\\ASCON\\KOMPAS-3D v21 Study\\Bin\\kAPI5.tlb" уже является макроопределением; используйте квалификатор "rename"
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(7,1): warning C4278: max: идентификатор в библиотеке типов "C:\\Program Files\\ASCON\\KOMPAS-3D v21 Study\\Bin\\kAPI5.tlb" уже является макроопределением; используйте квалификатор "rename"
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(7,1): warning C4278: GetObject: идентификатор в библиотеке типов "C:\\Program Files\\ASCON\\KOMPAS-3D v21 Study\\Bin\\kAPI5.tlb" уже является макроопределением; используйте квалификатор "rename"
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(51,28): warning C4552: "*": результат выражения не используется
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(72,28): warning C4552: "*": результат выражения не используется
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(93,28): warning C4552: "*": результат выражения не используется
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(147,29): warning C4552: "*": результат выражения не используется
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(173,26): warning C4552: "*": результат выражения не используется
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(198,27): warning C4552: "*": результат выражения не используется
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(218,28): warning C4552: "*": результат выражения не используется
+C:\Users\ilyae\source\repos\PD1\PD1\PD1.cpp(238,28): warning C4552: "*": результат выражения не используется
+  PD1.vcxproj -> C:\Users\ilyae\source\repos\PD1\Debug\PD1.exe
