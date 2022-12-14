@@ -1,0 +1,7 @@
+﻿  MPU-816.002.cpp
+C:\Users\elena\source\repos\MPU-816.002\MPU-816.002\MPU-816.002.cpp(54,31): warning C4552: "*": результат выражения не используется
+C:\Users\elena\source\repos\MPU-816.002\MPU-816.002\MPU-816.002.cpp(71,20): warning C4552: "*": результат выражения не используется
+C:\Users\elena\source\repos\MPU-816.002\MPU-816.002\MPU-816.002.cpp(72,30): warning C4552: "*": результат выражения не используется
+C:\Users\elena\source\repos\MPU-816.002\MPU-816.002\MPU-816.002.cpp(138,22): warning C4552: "*": результат выражения не используется
+C:\Users\elena\source\repos\MPU-816.002\MPU-816.002\MPU-816.002.cpp(139,32): warning C4552: "*": результат выражения не используется
+  MPU-816.002.vcxproj -> C:\Users\elena\source\repos\MPU-816.002\x64\Debug\MPU-816.002.exe
