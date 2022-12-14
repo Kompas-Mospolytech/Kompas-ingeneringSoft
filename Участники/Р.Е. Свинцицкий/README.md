@@ -25,4 +25,4 @@
 Изучение API КОМПАС-3D
 
 ## Контакты <br>
-- [ВКонтакте](https://vk.com/bredoviybread)
+- [ВКонтакте](https://vk.com/id613210281)
