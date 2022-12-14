@@ -1,0 +1,7 @@
+﻿  kriska.cpp
+C:\Users\Yana\source\repos\kriska\kriska\kriska.cpp(47,31): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\kriska\kriska\kriska.cpp(78,29): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\kriska\kriska\kriska.cpp(146,32): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\kriska\kriska\kriska.cpp(193,30): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\kriska\kriska\kriska.cpp(215,30): warning C4552: "*": результат выражения не используется
+  kriska.vcxproj -> C:\Users\Yana\source\repos\kriska\Debug\kriska.exe
