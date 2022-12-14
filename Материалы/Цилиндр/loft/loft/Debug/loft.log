@@ -1,0 +1,5 @@
+﻿  loft.cpp
+D:\дз\пд\loft\loft\loft.cpp(5,1): warning C4278: min: идентификатор в библиотеке типов "D:\\Bin\\kAPI5.tlb" уже является макроопределением; используйте квалификатор "rename"
+D:\дз\пд\loft\loft\loft.cpp(5,1): warning C4278: max: идентификатор в библиотеке типов "D:\\Bin\\kAPI5.tlb" уже является макроопределением; используйте квалификатор "rename"
+D:\дз\пд\loft\loft\loft.cpp(5,1): warning C4278: GetObject: идентификатор в библиотеке типов "D:\\Bin\\kAPI5.tlb" уже является макроопределением; используйте квалификатор "rename"
+  loft.vcxproj -> D:\дз\пд\loft\Debug\loft.exe
