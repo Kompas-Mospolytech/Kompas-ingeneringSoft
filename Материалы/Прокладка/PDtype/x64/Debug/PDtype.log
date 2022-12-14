@@ -1,0 +1,5 @@
+﻿  PDtypeDlg.cpp
+C:\Users\Danil\source\repos\PDtype\PDtype\PDtypeDlg.cpp(234,28): warning C4552: "*": результат выражения не используется
+C:\Users\Danil\source\repos\PDtype\PDtype\PDtypeDlg.cpp(258,27): warning C4552: "*": результат выражения не используется
+C:\Users\Danil\source\repos\PDtype\PDtype\PDtypeDlg.cpp(285,28): warning C4552: "*": результат выражения не используется
+  PDtype.vcxproj -> C:\Users\Danil\source\repos\PDtype\x64\Debug\PDtype.exe
