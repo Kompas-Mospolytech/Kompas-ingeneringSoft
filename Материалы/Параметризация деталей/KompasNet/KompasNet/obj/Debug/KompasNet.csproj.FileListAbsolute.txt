@@ -1,0 +1,16 @@
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\bin\Debug\KompasNet.exe.config
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\bin\Debug\KompasNet.exe
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\bin\Debug\KompasNet.pdb
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.csproj.AssemblyReference.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\Interop.KompasAPI7.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.csproj.ResolveComReference.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.Form1.resources
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.Properties.Resources.resources
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.csproj.GenerateResource.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.csproj.CoreCompileInputs.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.exe
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\KompasNet\KompasNet\obj\Debug\KompasNet.pdb

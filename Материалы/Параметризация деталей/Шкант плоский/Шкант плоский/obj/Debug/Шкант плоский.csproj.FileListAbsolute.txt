@@ -1,0 +1,16 @@
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\bin\Debug\Шкант плоский.exe.config
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\bin\Debug\Шкант плоский.exe
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\bin\Debug\Шкант плоский.pdb
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант плоский.csproj.AssemblyReference.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант плоский.csproj.SuggestedBindingRedirects.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Interop.KompasAPI7.dll
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант плоский.csproj.ResolveComReference.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант_плоский.Form1.resources
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант_плоский.Properties.Resources.resources
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант плоский.csproj.GenerateResource.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант плоский.csproj.CoreCompileInputs.cache
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант плоский.exe
+C:\Users\siomi\OneDrive\Рабочий стол\Учёба\Компас АПИ\Шкант плоский\Шкант плоский\obj\Debug\Шкант плоский.pdb
