@@ -22,7 +22,9 @@
 
 
 ## Участие в проектах
-Изучение API КОМПАС-3D
+1. Обучение студентов второго курса работе с API
+2. Подбор моделей и сборки для создания с помощью API
+3. [ Сборка поршня](https://github.com/Kompas-Mospolytech/Kompas-ingeneringSoft/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BF%D0%BE%D1%80%D1%88%D0%B5%D0%BD%D1%8C)
 
 ## Контакты <br>
 - [ВКонтакте](https://vk.com/id613210281)
