@@ -19,7 +19,7 @@
 ## Изученные материалы
 
 ## Участие в проектах
-Изучение API КОМПАС-3D
+1. [ Крышка2](https://github.com/Kompas-Mospolytech/Kompas-ingeneringSoft/tree/main/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/%D0%9A%D1%80%D1%8B%D1%88%D0%BA%D0%B02)<br>
 
 ## Контакты <br>
 - [ВКонтакте](https://vk.com/odd_dude)
