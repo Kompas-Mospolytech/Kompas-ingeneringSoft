@@ -1,7 +1,6 @@
 # Kompas-3D <br>
 
-Картинка проекта
-
+[Иллюстрация к проекту](https://github.com/Kompas-Mospolytech/Kompas-ingeneringSoft/blob/main/LOGO.jpg)
 
 
 ## Чем занимаемся
