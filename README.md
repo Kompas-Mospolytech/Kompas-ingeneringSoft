@@ -1,4 +1,4 @@
-# Kompas <br>
+# Kompas-3D <br>
 
 Картинка проекта
 
