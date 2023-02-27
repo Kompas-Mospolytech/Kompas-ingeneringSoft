@@ -1,2 +1,26 @@
 ﻿  SbDlg.cpp
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(244,31): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(367,30): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(505,32): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(522,32): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(538,31): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(584,32): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(606,29): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(627,30): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(644,31): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(661,31): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(794,29): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(810,18): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(811,28): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(844,22): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(845,32): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(945,33): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(973,31): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(1035,33): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(1077,30): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(1097,30): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(1219,34): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(1309,32): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(1326,31): warning C4552: "*": результат выражения не используется
+C:\Users\Yana\source\repos\Sb\Sb\SbDlg.cpp(1346,31): warning C4552: "*": результат выражения не используется
   Sb.vcxproj -> C:\Users\Yana\source\repos\Sb\Debug\Sb.exe
