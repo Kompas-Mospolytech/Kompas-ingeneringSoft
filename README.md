@@ -35,4 +35,9 @@
 
 ## Медиа проекта
 - [Дискорд-канал направления](https://discord.gg/DTGjytnXBT)
-- [Группа Вконтакте](https://vk.com/club212533937)
+- [Группа Вконтакте](https://vk.com/club212533937)\
+- [Rutube-канал](https://rutube.ru/plst/239509/)
+
+## Другие подпроекты
+- [NanoCAD](https://github.com/NanoCAD-Mospolytech/NanoCAD-IngeneringSoft)
+- [Математика для инженеров](https://github.com/EngineeringSoft-Mospolytech/Mathematics-for-engineers)
